@@ -34,12 +34,11 @@ https://www.mldata.io/dataset-details/gender_voice/
     - dfrange: range of dominant frequency measured across acoustic signal
     - modindx: modulation index. Calculated as the accumulated absolute difference between adjacent measurements of fundamental frequencies divided by the frequency range
     
+**Results: **
     
-    **Results: **
-    
-    ![a](https://github.com/kwankhede/Gender-Voice-Determination-Male-or-Female-Based-on-Voice---Characteristics-/blob/master/1.png)
-    ![b](https://github.com/kwankhede/Gender-Voice-Determination-Male-or-Female-Based-on-Voice---Characteristics-/blob/master/2.png)
-    ![c](https://github.com/kwankhede/Gender-Voice-Determination-Male-or-Female-Based-on-Voice---Characteristics-/blob/master/3.png)
-    ![d](https://github.com/kwankhede/Gender-Voice-Determination-Male-or-Female-Based-on-Voice---Characteristics-/blob/master/4.png)
+![a](https://github.com/kwankhede/Gender-Voice-Determination-Male-or-Female-Based-on-Voice---Characteristics-/blob/master/1.png)
+![b](https://github.com/kwankhede/Gender-Voice-Determination-Male-or-Female-Based-on-Voice---Characteristics-/blob/master/2.png)
+![c](https://github.com/kwankhede/Gender-Voice-Determination-Male-or-Female-Based-on-Voice---Characteristics-/blob/master/3.png)
+![d](https://github.com/kwankhede/Gender-Voice-Determination-Male-or-Female-Based-on-Voice---Characteristics-/blob/master/4.png)
     
     
